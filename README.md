@@ -40,4 +40,3 @@ API Integration · Docker · Vector Databases (Milvus) · Redis · SAP HANA · S
 
 ## 🌐 Socials
 - **LinkedIn:** https://www.linkedin.com/in/busrasabak  
-- **ORCID:** https://orcid.org/0009-0006-1912-358X
